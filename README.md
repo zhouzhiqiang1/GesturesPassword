@@ -3,3 +3,7 @@
 
 
 ![image](https://github.com/zhouzhiqiang1/GesturesPassword/blob/master/GesturesPassword.gif)
+
+
+
+
