@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "GesturesPassword"
 
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
 
   s.homepage      = 'https://guides.cocoapods.org/making/private-cocoapods.html'
 
