@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "GesturesPassword"
+  s.name         = "GesturesPasswordDemo"
 
   s.version      = "0.0.2"
 
